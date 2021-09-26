@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+/VulkanTest/VulkanTest/x64
+/VulkanTest/x64
+/VulkanTest/.vs
